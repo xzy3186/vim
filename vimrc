@@ -1,6 +1,7 @@
 "---------------
 "色の設定
 "--------------
+execute pathogen#infect()
 syntax on
 
 highlight LineNr  ctermfg=darkyellow  "行番号
